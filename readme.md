@@ -12,7 +12,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourrepo/siliconflow-balance-notifier.git
+git clone https://github.com/NightYuYyy/siliconflow-balance-notifier.git
 cd siliconflow-balance-notifier
 
 # 安装依赖
@@ -35,7 +35,7 @@ POLLING_INTERVAL=300  # 轮询间隔(秒)
 ```
 /siliconflow-balance-notifier
 ├── services/
-│   ├── apiService.js    # 支付宝API交互
+│   ├── apiService.js    # 硅基流动API交互
 │   └── notificationManager.js 
 ├── utils/
 │   ├── logger.js        # 日志系统
