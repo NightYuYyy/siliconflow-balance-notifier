@@ -1,4 +1,3 @@
-```markdown
 # Balance Monitor - 硅基流动余额监控通知工具
 
 ![Node.js Version](https://img.shields.io/badge/Node.js-%3E%3D18-green)
@@ -70,4 +69,3 @@ node test/notificationTest.js
 ```
 
 📜 License: [MIT](LICENSE)
-```
