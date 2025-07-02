@@ -1,18 +1,11 @@
 {
-  "name": "apikey",
-  "version": "1.0.0",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "dotenv": "^16.5.0",
-    "node-fetch": "^3.3.2",
-    "node-notifier": "^10.0.1"
-  }
+    "name": "desktop-notifier",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^29.3.0"
+    }
 }
